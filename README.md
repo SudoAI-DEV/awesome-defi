@@ -89,6 +89,7 @@
 - **[Zapper](https://zapper.fi/)** - A DeFi dashboard for tracking assets and yield farming positions.
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
+- **[DefiLPKit](https://defilpkit.com/)** - Free read-only LP calculator: paste a pool address to see fee APR, estimated net yield after impermanent loss and gas, and a range to test. No wallet connect.
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
